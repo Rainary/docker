@@ -8,6 +8,8 @@ Also,
 each Dockerfile has its own build-and-publish script
 to publish images to [Docker Hub](https://hub.docker.com/r/foliant/foliant/tags).
 
+## header
+
 * `foliant/foliant:slim` — minimal image of Foliant core with no extensions.
   * [Dockerfile-slim](https://github.com/foliant-docs/docker/blob/master/Dockerfile-slim)
   * [build_slim.sh](https://github.com/foliant-docs/docker/blob/master/build_slim.sh)
